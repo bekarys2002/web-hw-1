@@ -1,0 +1,78 @@
+li{
+  margin: 25px;
+  display: inline;
+}
+li:hover{
+  opacity: 1;
+  color: black;
+  border-bottom: gold 2px solid;
+
+}
+.text{
+  box-sizing: border-box;
+  width: 450px;
+  height: 400px;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
+.img{
+    margin-right: -800px;
+    margin-top: -180px;
+  }
+
+.landing{
+  margin-left: 50px;}
+
+  .button {
+    background-color:gold;
+    border: gold 1px solid;
+    border-radius: 100px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    padding: 20px 45px;
+    margin-top: 45px;
+  }
+.button2 {
+    background-color:white;
+    border: rgb(209, 209, 209) 1px solid;
+    border-radius: 100px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    padding: 20px 75px;
+    margin-top: 45px;
+  }
+
+.bar{
+    font-size: 15px;
+    font-family: monospace;
+    margin-right: 100px;
+    margin-top: 5px;
+    color: rgb(155, 155, 155);
+}
+
+.left{float: left;}
+
+.right{float: right;}
+
+  
+  
+.krug{
+    border-radius: 100px;
+    border: solid rgb(211, 211, 211) 1px;
+    padding: 3px 25px;
+  }
+  
